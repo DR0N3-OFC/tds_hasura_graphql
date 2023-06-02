@@ -1,0 +1,27 @@
+﻿@page
+@model Aula03.pages.Categories.Index
+@{
+}
+
+<div class="container">
+    <h1 class="text-center" style="margin:20px;">Categorias</h1>
+    <div>
+        <table class="table table-bordered table-hover table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nome</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var category in Model.CategoriesList)
+                {
+                    <tr>
+                        <td>@category.CategoryID</td>
+                        <td>@category.Name</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

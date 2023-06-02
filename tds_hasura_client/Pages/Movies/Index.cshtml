@@ -1,0 +1,29 @@
+﻿@page
+@model Aula03.pages.Movies.Index
+@{
+}
+
+<div class="container">
+    <h1 class="text-center" style="margin:20px;">Filmes</h1>
+    <div>
+        <table class="table table-bordered table-hover table-striped">
+            <thead>
+                <tr>
+                    <td>ID</td>
+                    <td>Nome</td>
+                    <td>Categoria</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var movie in Model.MoviesList)
+                {
+                    <tr>
+                        <td>@movie.MovieID</td>
+                        <td>@movie.Name</td>
+                        <td>@movie.Category.Name</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

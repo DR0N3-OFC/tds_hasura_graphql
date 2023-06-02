@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Aula03
+build_property.RootNamespace = Aula03
+build_property.ProjectDir = D:\Programação\GraphQL_Hasura\Eventos\OrgEventos\
+build_property.RazorLangVersion = 2.1
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Programação\GraphQL_Hasura\Eventos\OrgEventos
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Events/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Events/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Events/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Events/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/HttpSession/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSHR0cFNlc3Npb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Organizers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JnYW5pemVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Organizers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JnYW5pemVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Organizers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JnYW5pemVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Organizers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JnYW5pemVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Participants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGljaXBhbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Participants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGljaXBhbnRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Participants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGljaXBhbnRzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Participants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFydGljaXBhbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Shared/_MainLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NYWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/Shared/_MenuPartialPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NZW51UGFydGlhbFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Programação/GraphQL_Hasura/Eventos/OrgEventos/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
