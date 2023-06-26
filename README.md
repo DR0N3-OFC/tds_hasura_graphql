@@ -1,5 +1,4 @@
 # Servidor Hasura com GraphQL
-Atividade realizada pelos alunos Bruno Raphael Facundo, Augusto Seben da Rosa e Matheus Brustolin.
 
 ## Requisitos
 * .NET 6.0;
